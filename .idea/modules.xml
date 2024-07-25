@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-controller/qh-club-application-controller.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-controller/qh-club-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-job/qh-club-application-job.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-job/qh-club-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-mq/qh-club-application-mq.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-application/qh-club-application-mq/qh-club-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-commom/qh-club-commom.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-commom/qh-club-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-domain/qh-club-domain.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-domain/qh-club-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-infrastructure/qh-club-infrastructure.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-infrastructure/qh-club-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-starter/qh-club-starter.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-starter/qh-club-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-subject.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qh-club-subject/qh-club-subject-api/qh-club-subject-api.iml" filepath="$PROJECT_DIR$/qh-club-subject/qh-club-subject-api/qh-club-subject-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qihang_club.iml" filepath="$PROJECT_DIR$/qihang_club.iml" />
+    </modules>
+  </component>
+</project>
